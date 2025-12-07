@@ -7,6 +7,8 @@ The app is essentially a list of all the meals in a week. The user can then add 
 
 [Software Demo Video](https://youtu.be/_czHrN_KRrM)
 
+If you want to run this project, just open a blank activity in Android Studio and copy the two included files into the project. The build.gradle.kts file is in gradle scripts and is for the module, and not the project.
+
 # Development Environment
 
 I used Android Studio to develop the app. ChatGPT helped me a lot since I did not know much about Kotlin.
